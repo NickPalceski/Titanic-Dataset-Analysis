@@ -1,6 +1,9 @@
 # Titanic-Dataset-Analysis
 Feature importance for survivability predictions among passengers. Two classification model comparison, k-NN and Naive Bayes.
 
+[Dataset used](https://www.kaggle.com/c/titanic/data)
+Put dataset csv file into project main directory.
+
 ## How to run
 
 1. Open a terminal in the project folder.
